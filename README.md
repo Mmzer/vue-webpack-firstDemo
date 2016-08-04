@@ -1,6 +1,8 @@
-# vue-webpack-first-project
+
+# vue-webpack-firstDemo
 
 > A Vue.js project
+> vue+webpack构建的第一个项目demo
 
 ## Build Setup
 
